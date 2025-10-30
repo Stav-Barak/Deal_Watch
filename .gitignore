@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# AWS credentials or keys
+*.pem
+*.key
+aws_credentials.json
+
+# Data files
+*.csv
+*.parquet
+*.jsonl
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Airflow logs
+logs/
