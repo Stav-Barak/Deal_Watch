@@ -1,6 +1,4 @@
 # 🛍️ Deal_Watch - Cloud-Based Discount & Promotion Detection
-This is my first Data Engineering project in the cloud 🚀
-
 
 ## 📖 Overview
 **DealWatch** is a cloud-based data engineering project designed to collect, process, and analyze product prices and promotions from multiple e-commerce websites.  
